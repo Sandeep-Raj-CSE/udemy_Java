@@ -20,7 +20,7 @@ public class DemoJdbc {
         int marks= 122;
         String url = "jdbc:postgresql://localhost:7777/PostgressLearning";
         String uname="postgres";
-        String pass = "805130@Bhai";
+        String pass = "Baklol apna password daal";
 
       //  String query = "INSERT INTO student VALUES (" + id + ", '" + name + "', " + marks + ")";
 
